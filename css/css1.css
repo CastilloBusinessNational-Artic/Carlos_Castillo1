@@ -1,0 +1,51 @@
+body{
+	background-color: rgb(212, 238, 240);
+}
+
+.caja1{
+	background-image: url("../img/img1.jpg");
+	background-size: 1000px;
+	width: 1000px;
+	height: 150px;
+	background-repeat: no-repeat;
+}
+
+h1{
+	font-family: sans-serif;
+	font-size: 60px;
+	color: white;
+}
+
+h2{
+	color: black;
+	font-family: monospace;
+}
+
+p{
+color: black;
+font-family: sans-serif;
+}
+
+.title1{
+	font-family: sans-serif;
+	font-size: 30px;
+	color: white;
+}
+
+.caja2{
+	width: 750px;
+	display: inline-block;
+}
+.caja3{
+	position: absolute;
+	top: 190px;
+	left: 760px;
+	background-color: rgb(106, 158, 180);
+	width: 247px;
+	height: 690px;
+}
+
+img{
+	width: 246px;
+	border-radius: 50%;
+	}
